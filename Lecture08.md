@@ -1,10 +1,10 @@
 # Lecture08
 
-#SPEEDING UP
+# SPEEDING UP
 
 # INDEX
 
-##Idea
+## Idea
 
 * Associating values in one or several columns of a table to the locator(s) of the row(s) where they can be found.
 
