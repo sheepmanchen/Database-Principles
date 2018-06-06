@@ -1,10 +1,10 @@
 # Lecture08
 
-# SPEEDING UP
+# Speeding Up
 
 # INDEX
 
-## Idea
+## IDEA
 
 * Associating values in one or several columns of a table to the locator(s) of the row(s) where they can be found.
 
@@ -122,7 +122,7 @@ In particular whether an index is used. The optimizer may choose not to use it. 
 
     Index search is based on ordering (inside the tree) and ordering is different with different datatypes. Convert datatypes, you break the ordering. 
 
-### Function and Index
+## Function and Index
 
 ![](https://ws4.sinaimg.cn/large/006tNc79ly1fs1hw46nplj30d909ydgv.jpg)
 
